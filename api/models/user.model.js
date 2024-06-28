@@ -18,7 +18,7 @@ const userSchema = new mongoose.Schema(
     },
     avatar: {
         type: String , 
-        default : "https://images.inuth.com/2017/05/deepikapadukonecutecandidpic7.jpg"
+        default : "https://4.bp.blogspot.com/-G208iaAOd5k/Ut32--HFZmI/AAAAAAAAAyM/ETVtEXgTwyo/s1600/Deepika+Padukone+Photo+2014+03.jpg"
     },
 },
 { timestamps: true }
