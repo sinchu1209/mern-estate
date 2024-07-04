@@ -7,5 +7,8 @@ export default {
   theme: {
     extend: {},
   },
-  plugins: [], // Remove @tailwindcss/line-clamp from this array
+  plugins: [
+    require('@tailwindcss/line-clamp'),
+    // ...
+  ],// Remove @tailwindcss/line-clamp from this array
 }
